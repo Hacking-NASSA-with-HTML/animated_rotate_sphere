@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #151d72;
+    min-height: 90vh;
+    color: whitesmoke;
+    overflow-x: hidden;
+}
+
+.sphere-container {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: auto;
+}
+
+.Sphere {
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+}
+
+.tagcloud {
+    display: block;
+    margin: 50px auto;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.tagcloud--item:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+#mainSection {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 0 0 0;
+}
+
+.titleH1 {
+    text-align: center;
+    padding: 5vh 5vw 1vh 5vw;
+}
