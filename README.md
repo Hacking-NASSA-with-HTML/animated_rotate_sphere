@@ -13,6 +13,8 @@ made with JavaScript.
 ---
 JavaScript tagCloud app animated rotate sphere 
 inspired by Tina Green from Microverse.
+<br>
+Feel free to Ask Me Anything In Discussions, and maybe even pull request the repo for even better changes!
 
 ---
 ####
