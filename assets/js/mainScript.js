@@ -11,7 +11,7 @@ function mainPageContent() {
                 src="./assets/img/fork_me_left_red.png"
                 style="position: fixed; top:0; left:0" alt="Fork me on GitHub">
             </a>
-            <h1 class="titleH1">Code For Joy</h1>
+            <h1 class="titleH1">they are doing the world better</h1>
         </section>
         `
     return renderMainPageContent
