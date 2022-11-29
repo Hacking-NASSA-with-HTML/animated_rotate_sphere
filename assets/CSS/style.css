@@ -6,7 +6,9 @@
     border: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    background-color: #151d72;
+    background: url(../img/bg_img.gif) 50% 0 no-repeat fixed;
+    background-size: cover;
+    /* background-color: #151d72; */
     min-height: 90vh;
     color: whitesmoke;
     overflow-x: hidden;
