@@ -1,3 +1,5 @@
+![](https://github.com/Hacking-NASSA-with-HTML/animated_rotate_sphere/blob/main/assets/img/app_for_Tina.gif)
+
 # Animated rotate sphere app.
 ---
 
