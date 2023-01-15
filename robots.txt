@@ -1,0 +1,3 @@
+Sitemap: https://hacking-nassa-with-html.github.io/animated_rotate_sphere/sitemap.xml
+User-agent: *
+Disallow:
